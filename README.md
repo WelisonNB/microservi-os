@@ -1,5 +1,5 @@
 # Microsserviços
-
+Dev Welison Nunes Belo
 Este projeto é uma implementação de um sistema de microsserviços usando Node.js e Express. O sistema consiste em vários microsserviços, incluindo serviços de autenticação, registro de serviços, e gerenciamento de usuários e posts.
 
 ## Estrutura do Projeto
